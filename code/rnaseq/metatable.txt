@@ -1,0 +1,37 @@
+Sample	Group	Transgene	Donor	Cell_collection_timepoint	Treatment
+3F-31-1	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 300F	16hours after elec	elec 2024-12-13
+3F-31-2	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 300F	16hours after elec	elec 2024-12-13
+3F-31-3	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 300F	16hours after elec	elec 2024-12-13
+3F-6-1	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 300F	16hours after elec	elec 2024-12-13
+3F-6-2	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 300F	16hours after elec	elec 2024-12-13
+3F-6-3	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 300F	16hours after elec	elec 2024-12-13
+3F-0-1	elec Cas9	No virus	Donor 300F	16hours after elec	elec 2024-12-13
+3F-0-2	elec Cas9	No virus	Donor 300F	16hours after elec	elec 2024-12-13
+3F-0-3	elec Cas9	No virus	Donor 300F	16hours after elec	elec 2024-12-13
+3F-31-7-1	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 300F	7 Days after elec	elec 2024-12-13
+3F-31-7-2	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 300F	7 Days after elec	elec 2024-12-13
+3F-31-7-3	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 300F	7 Days after elec	elec 2024-12-13
+3F-6-7-1	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 300F	7 Days after elec	elec 2024-12-13
+3F-6-7-2	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 300F	7 Days after elec	elec 2024-12-13
+3F-6-7-3	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 300F	7 Days after elec	elec 2024-12-13
+3F-0-7-1	elec Cas9	No virus	Donor 300F	7 Days after elec	elec 2024-12-13
+3F-0-7-2	elec Cas9	No virus	Donor 300F	7 Days after elec	elec 2024-12-13
+3F-0-7-3	elec Cas9	No virus	Donor 300F	7 Days after elec	elec 2024-12-13
+11F-31-1	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 1100F	16hours after elec	elec 2024-12-13
+11F-31-2	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 1100F	16hours after elec	elec 2024-12-13
+11F-31-3	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 1100F	16hours after elec	elec 2024-12-13
+11F-6-1	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 1100F	16hours after elec	elec 2024-12-13
+11F-6-2	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 1100F	16hours after elec	elec 2024-12-13
+11F-6-3	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 1100F	16hours after elec	elec 2024-12-13
+11F-0-1	elec Cas9	No virus	Donor 1100F	16hours after elec	elec 2024-12-13
+11F-0-2	elec Cas9	No virus	Donor 1100F	16hours after elec	elec 2024-12-13
+11F-0-3	elec Cas9	No virus	Donor 1100F	16hours after elec	elec 2024-12-13
+11F-31-7-1	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 1100F	7 Days after elec	elec 2024-12-13
+11F-31-7-2	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 1100F	7 Days after elec	elec 2024-12-13
+11F-31-7-3	elec Cas9 +HONG31 	pLY061 (cd22-car)	Donor 1100F	7 Days after elec	elec 2024-12-13
+11F-6-7-1	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 1100F	7 Days after elec	elec 2024-12-13
+11F-6-7-2	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 1100F	7 Days after elec	elec 2024-12-13
+11F-6-7-3	elec Cas9 +AAV6	pLY061 (cd22-car)	Donor 1100F	7 Days after elec	elec 2024-12-13
+11F-0-7-1	elec Cas9	No virus	Donor 1100F	7 Days after elec	elec 2024-12-13
+11F-0-7-2	elec Cas9	No virus	Donor 1100F	7 Days after elec	elec 2024-12-13
+11F-0-7-3	elec Cas9	No virus	Donor 1100F	7 Days after elec	elec 2024-12-13

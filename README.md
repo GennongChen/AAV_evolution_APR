@@ -1,2 +1,2 @@
 # AAV_evolution_APR
-code for NGS (evo, screen and rna-seq) data anlysis in AAV evolution article
+Code for the NGS (evo, screen, and RNA-seq) data analysis in the AAV evolution article.

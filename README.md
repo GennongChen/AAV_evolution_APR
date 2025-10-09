@@ -7,17 +7,29 @@
   **To reproduce the code, please modify the tool and file paths in the scripts.**
 ## Data & Code
 ### Section 1: AAV capsid sequence evolutionary analysis (Fig.1 & Fig.S1)
-  Raw sequencing and processed data are stored in GSE302084. And `qc_CapIV.sh` is used for preprocessing fastq files. `stat_CapIV.R` performs statistical analysis and visualization of AAV capsid sequences in the libraries using R. `20231219_CapIV_metadata.xlsx` contains the metadata corresponding to the raw fastq files.
+  Raw sequencing and processed data are stored in GSE302084. `qc_CapIV.sh` is used for preprocessing fastq files. `stat_CapIV.R` performs statistical analysis and visualization of AAV capsid sequences in the libraries using R. `20231219_CapIV_metadata.xlsx` contains the metadata corresponding to the raw fastq files.
 ```
 sh qc_CapIV.sh
 Rscript stat_CapIV.R
 ```
 ### Section 2: CRISPR screening for AAV.APR31 receptor (Fig.4 & Fig.S3)
-  Raw sequencing and processed data are stored in GSE302084.
+  Raw sequencing and processed data are stored in GSE302084. `screen_batch4.sh` is used for preprocessing (trimming & mageck) Jurkat screen fastq files. `screen_batch5.sh` is used for preprocessing (trimming & mageck) NALM6 screen fastq files and visualization of the two screens using R. `20231219_CapIV_metadata.xlsx` contains the metadata corresponding to the raw fastq files.
+```
+sh qc_CapIV.sh
+Rscript stat_CapIV.R
+```
 ### Section 3: RNA-seq for safety assessment (Fig.5 & Fig.S5)
-  Raw sequencing data are stored in HRA012600. 
+  Raw sequencing data are stored in HRA012600.  And `qc_CapIV.sh` is used for preprocessing fastq files. `stat_CapIV.R` performs statistical analysis and visualization of AAV capsid sequences in the libraries using R. `screen_batch4_sample_info.txt` and `screen_batch5_sample_info.txt` contain the metadata corresponding to the raw fastq files. `CRISPRko.Broadgpp.txt.library` contains the metadata corresponding to the raw fastq files.
+```
+sh qc_CapIV.sh
+Rscript stat_CapIV.R
+```
 ### Section 4: CD7 distribution in human tissues (Fig.6 & Fig.S6)
-  HPA data was downloaded from HPA database (https://www.proteinatlas.org/humanproteome/tissue/data#hpa_tissues_rna). Cross-tissue multicellular single-cell atlas was downloaded from Zenodo (https://zenodo.org/records/15169362). ScRNA-seq data of bone marrow, thymus, and brain were downloaded from DISCO database (https://disco.bii.a-star.edu.sg/download). 
+  HPA data was downloaded from HPA database (https://www.proteinatlas.org/humanproteome/tissue/data#hpa_tissues_rna). Cross-tissue multicellular single-cell atlas was downloaded from Zenodo (https://zenodo.org/records/15169362). ScRNA-seq data of bone marrow, thymus, and brain were downloaded from DISCO database (https://disco.bii.a-star.edu.sg/download).  And `qc_CapIV.sh` is used for preprocessing fastq files. `stat_CapIV.R` performs statistical analysis and visualization of AAV capsid sequences in the libraries using R. `20231219_CapIV_metadata.xlsx` contains the metadata corresponding to the raw fastq files.
+```
+sh qc_CapIV.sh
+Rscript stat_CapIV.R
+```
 
 ## Requirements
 ### tools

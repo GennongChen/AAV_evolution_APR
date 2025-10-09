@@ -1,6 +1,7 @@
 # AAV capsid evolution in human T cells identifies a family of CD7 targeting variants for efficient T and NK cell engineering
 ## Abstract
-  This repository stores the code for the article “AAV capsid evolution in human T cells identifies a family of CD7 targeting variants for efficient T and NK cell engineering”, ensuring that other researchers can replicate all analyses and figures presented in the paper. We will provide data generated in our laboratory, public datasets, and analysis scripts. This includes four sections: AAV capsid sequence evolutionary analysis, CRISPR screening for AAV.APR31 receptor, RNA-seq for safety assessment, and CD7 distribution in human tissues.  
+  This repository stores the code for the article “AAV capsid evolution in human T cells identifies a family of CD7 targeting variants for efficient T and NK cell engineering”, ensuring that other researchers can replicate all analyses and figures presented in the paper.  
+  We will provide data generated in our laboratory, public datasets, and analysis scripts. This includes four sections: AAV capsid sequence evolutionary analysis, CRISPR screening for AAV.APR31 receptor, RNA-seq for safety assessment, and CD7 distribution in human tissues.  
   
   **To reproduce the code, please modify the tool and file paths in the scripts.**
 ## Data & Code

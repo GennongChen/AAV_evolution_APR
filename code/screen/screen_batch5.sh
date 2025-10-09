@@ -129,14 +129,9 @@ $mageck plot -k /home/chengennong/ylp/aav/screen/screen_out/${batch}/mageck_coun
 
 mkdir /home/chengennong/ylp/aav/screen/screen_out/batch5/plot
 for sc in `ls /home/chengennong/ylp/aav/screen/screen_out/fig_script`
-do #/home/chengennong/tools/mambaforge/envs/seurat4/bin/Rscript \
-    echo /home/chengennong/ylp/aav/screen/screen_out/fig_script/$sc
+do /home/chengennong/tools/mambaforge/envs/seurat4/bin/Rscript \
+    /home/chengennong/ylp/aav/screen/screen_out/fig_script/$sc
 done
-/home/chengennong/tools/mambaforge/envs/seurat4/bin/Rscript /home/chengennong/ylp/aav/screen/screen_out/batch5/fig_script/fig1c-d.R
-#4 Gene hits were classified as having a median absolute log2-fold change >0.5 and a false discovery rate (FDR) <0.05. For supplemental CD4+ screens (fig. S9), reads were aligned to the full Calabrese A and B library in a single reference file.
-#statistic & draw result
-#for i in `ls /home/chengennong/code-manual/vscode/ylp/Science2022/script_dir/fig_script_dir/* |grep -v "#" |grep fig[12]`
-#do /home/chengennong/anaconda3/envs/R/bin/Rscript $i
-#done
+
 
 

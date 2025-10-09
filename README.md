@@ -14,5 +14,20 @@
   HPA data was downloaded from HPA database (https://www.proteinatlas.org/humanproteome/tissue/data#hpa_tissues_rna). Cross-tissue multicellular single-cell atlas was downloaded from Zenodo (https://zenodo.org/records/15169362). ScRNA-seq data of bone marrow, thymus and brain was downloaded from DISCO database (https://disco.bii.a-star.edu.sg/download). 
 
 ## Requirements
-### python lib
+```
+Fastp v0.234
+Cutadapt v4.4.86
+sickle v1.33
+SeqKit 2.6.1
+Mageck v0.5.9.5
+STAR v2.5.2b
+featureCounts v2.0.8
+```
+
 ### R lib
+data.table v1.15.4
+tidyverse v2.0.0
+dplyr v1.1.4
+ggplot2 v3.4.4
+ggpubr v0.6.0
+ggseqlogo v0.2

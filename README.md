@@ -40,7 +40,7 @@ Rscript Shi.R
 Fastp v0.234
 Cutadapt v4.4.86
 sickle v1.33
-SeqKit 2.6.1
+SeqKit v2.6.1
 Mageck v0.5.9.5
 STAR v2.5.2b
 featureCounts v2.0.8

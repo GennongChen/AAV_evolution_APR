@@ -123,11 +123,4 @@ $mageck plot -k /home/chengennong/ylp/aav/screen/screen_out/batch4/mageck_count/
     -n /home/chengennong/ylp/aav/screen/screen_out/batch4/mageck_count/Broadgpp_P4_P7 \
     --genes CD7,TM9SF2,VPS52,KIAA0319L,NR4A1,KMT2D,RUNX3,GPR108,NTC
 
-/home/chengennong/tools/mambaforge/envs/genome/bin/Rscript /home/chengennong/ylp/aav/screen/screen_out/fig_script/fig1b.R
-#4 Gene hits were classified as having a median absolute log2-fold change >0.5 and a false discovery rate (FDR) <0.05. For supplemental CD4+ screens (fig. S9), reads were aligned to the full Calabrese A and B library in a single reference file.
-#statistic & draw result
-#for i in `ls /home/chengennong/code-manual/vscode/ylp/Science2022/script_dir/fig_script_dir/* |grep -v "#" |grep fig[12]`
-#do /home/chengennong/anaconda3/envs/R/bin/Rscript $i
-#done
-
 

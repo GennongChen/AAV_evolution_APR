@@ -8,6 +8,10 @@
 ## Data & Code
 ### Section 1: AAV capsid sequence evolutionary analysis (Fig.1 & Fig.S1)
   Raw sequencing and processed data are stored in GSE302084. And `qc_CapIV.sh` is used for preprocessing fastq files. `stat_CapIV.R` performs statistical analysis and visualization of AAV capsid sequences in the libraries using R. `20231219_CapIV_metadata.xlsx` contains the metadata corresponding to the raw fastq files.
+```
+sh qc_CapIV.sh
+Rscript stat_CapIV.R
+```
 ### Section 2: CRISPR screening for AAV.APR31 receptor (Fig.4 & Fig.S3)
   Raw sequencing and processed data are stored in GSE302084.
 ### Section 3: RNA-seq for safety assessment (Fig.5 & Fig.S5)
@@ -26,6 +30,7 @@ Mageck v0.5.9.5
 STAR v2.5.2b
 featureCounts v2.0.8
 python v3.9.18
+R v4.3.1
 ```
 ### python lib
 ```

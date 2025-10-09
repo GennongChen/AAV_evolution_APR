@@ -2,7 +2,7 @@
 ## Abstract
   This repository stores the code for the article “AAV capsid evolution in human T cells identifies a family of CD7 targeting variants for efficient T and NK cell engineering”, ensuring that other researchers can replicate all analyses and figures presented in the paper.
   We will provide data generated in our laboratory, public datasets, and analysis scripts. This includes four sections: AAV capsid sequence evolutionary analysis, CRISPR screening for AAV.APR31 receptor, RNA-seq for safety assessment, and CD7 distribution in human tissues.  
-  **  To reproduce the code, please modify the tool and file paths in the scripts.**
+  **To reproduce the code, please modify the tool and file paths in the scripts.**
 ## Data & Code
 ### Section 1: AAV capsid sequence evolutionary analysis (Fig.1 & Fig.S1)
   Raw sequencing and processed data are stored in GSE302084. And `qc_CapIV.sh` is used for preprocessing fastq files. `stat_CapIV.R` performs statistical analysis and visualization of AAV capsid sequences in the libraries using R. `20231219_CapIV_metadata.xlsx` contains the metadata corresponding to the raw fastq files.
